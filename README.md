@@ -6,3 +6,4 @@ Using all kind of filters such as slicers, matrices and map. Integrating DAX for
 Regarding the excel project made on the sales analysis of a pizza store. Using the sales data, developed a interactive dashboard listing all the sales data such as top selling pizzas and worst selling pizzas, categorical sales of pizza, pizza sales baesd on size of pizza. 
 Technical tools used: SQL AND MICROSOFT EXCEL. 
 The results obtained from excel is cross verified with SQL Queries.
+![pizza store](https://github.com/hem1705/projects/assets/170846442/231bf966-ac3f-49c1-ade2-8c53d939a10a)
